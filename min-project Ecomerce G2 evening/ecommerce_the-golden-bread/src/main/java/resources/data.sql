@@ -1,0 +1,3 @@
+INSERT INTO users (user_name, email, password, u_uuid) VALUES ('john_doe', 'john@thegoldenbread.com', 'password123', '550e8400-e29b-41d4-a716-446655440000');
+INSERT INTO products (p_name, price, qty, category, p_uuid) VALUES ('Golden Sourdough', 5.99, 20, 'Bread', 'f47ac10b-58cc-4372-a567-0e02b2c3d479');
+INSERT INTO products (p_name, price, qty, category, p_uuid) VALUES ('Almond Croissant', 3.49, 15, 'Pastry', 'a1b2c3d4-e5f6-4g7h-8i9j-0k1l2m3n4o5p');
